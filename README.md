@@ -1,4 +1,4 @@
-# 0xDigitalArt
+# Linktree
 
 ## Proxima
 1. HeptaHeads
