@@ -34,4 +34,4 @@
 
 <hr/>
 
-> [Refinable](https://app.refinable.com/profile/0x5d2213e83bc06496aa33B7F17B86754D832F613f?tab=all-items), [OpenSea](https://opensea.io/HeptaDecane), [Twitter](https://twitter.com/hepta_decane)
+> [Refinable](https://app.refinable.com/profile/0x5d2213e83bc06496aa33B7F17B86754D832F613f?tab=all-items), [OpenSea](https://opensea.io/HeptaDecane), [Twitter](https://twitter.com/Hepta_Decane)
