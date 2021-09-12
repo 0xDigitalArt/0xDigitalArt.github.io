@@ -1,1 +1,1 @@
-# 0xDigitalArt.github.io
+# 0xDigitalArt
