@@ -36,7 +36,7 @@
 > [https://0xdigitalart.heptadecane.xyz/apis/canvas.json](https://0xdigitalart.heptadecane.xyz/apis/canvas.json)
 
 <hr/>
-<br/>
+<div padding="5em"></div> 
 
 <div align="center">
   <a href="https://app.refinable.com/profile/0x5d2213e83bc06496aa33B7F17B86754D832F613f?tab=all-items">Refinable</a>, 
