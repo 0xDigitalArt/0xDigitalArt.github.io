@@ -29,11 +29,11 @@
 <hr/>
 
 > #### Apis
-> https://0xdigitalart.heptadecane.xyz/apis/logs.json  
-> https://0xdigitalart.heptadecane.xyz/apis/replaced.json  
-> https://0xdigitalart.heptadecane.xyz/apis/ethereal.json  
-> https://0xdigitalart.heptadecane.xyz/apis/pixienes.json  
-> https://0xdigitalart.heptadecane.xyz/apis/canvas.json
+> [https://0xdigitalart.heptadecane.xyz/apis/logs.json](https://0xdigitalart.heptadecane.xyz/apis/logs.json)  
+> [https://0xdigitalart.heptadecane.xyz/apis/replaced.json](https://0xdigitalart.heptadecane.xyz/apis/replaced.json)  
+> [https://0xdigitalart.heptadecane.xyz/apis/ethereal.json](https://0xdigitalart.heptadecane.xyz/apis/ethereal.json)  
+> [https://0xdigitalart.heptadecane.xyz/apis/pixienes.json](https://0xdigitalart.heptadecane.xyz/apis/pixienes.json)  
+> [https://0xdigitalart.heptadecane.xyz/apis/canvas.json](https://0xdigitalart.heptadecane.xyz/apis/canvas.json)
 
 <hr/>
 
