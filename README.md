@@ -9,12 +9,6 @@
 
 `Author: 0x5d2213e83bc06496aa33B7F17B86754D832F613f`
 
-## Pixienes
-- [Marketplace](https://opensea.io/collection/pixienes)
-- [Website](https://pixienes.heptadecane.xyz)
-
-`Author: 0x40c35FFe879399b465001db374DAB2971E177501`
-
 ## Canvas of Consciousness
 - [Marketplace](https://opensea.io/collection/canvasofconsciousness)
 - [Website](https://c17h36.xyz)
@@ -23,6 +17,7 @@
 
 ## Corrupt1024
 - [Marketplace](https://opensea.io/collection/corrupt1024)
+- [Website](https://corrupt1024.netlify.app)
 
 `Author: 0x40c35FFe879399b465001db374DAB2971E177501`
 
@@ -32,7 +27,6 @@
 > [https://0xdigitalart.heptadecane.xyz/apis/logs.json](https://0xdigitalart.heptadecane.xyz/apis/logs.json)  
 > [https://0xdigitalart.heptadecane.xyz/apis/replaced.json](https://0xdigitalart.heptadecane.xyz/apis/replaced.json)  
 > [https://0xdigitalart.heptadecane.xyz/apis/ethereal.json](https://0xdigitalart.heptadecane.xyz/apis/ethereal.json)  
-> [https://0xdigitalart.heptadecane.xyz/apis/pixienes.json](https://0xdigitalart.heptadecane.xyz/apis/pixienes.json)  
 > [https://0xdigitalart.heptadecane.xyz/apis/canvas.json](https://0xdigitalart.heptadecane.xyz/apis/canvas.json)
 
 <hr/>
