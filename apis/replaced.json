@@ -111,7 +111,7 @@
     "weight": 97.0,
     "deployedAt": 1630432575,
     "status": "replaced",
-    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/240/613a21fa87f8b33594eef9dc"
+    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/240"
   },
   {
     "uniqueId": "br2akiok",
@@ -130,14 +130,14 @@
     "weight": 71.6,
     "deployedAt": 1631438267,
     "status": "replaced",
-    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/302/613dc8345cae4d2ba9d112f9"
+    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/302"
   },
   {
-    "uniqueId": "upcoming",
+    "uniqueId": "coc6lehl",
     "entity": "NPC",
     "type": "HeptaHead",
     "assignedName": "Barbra",
-    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Fcoc6lehl.png?alt=media",
     "employment": {
       "organization": "Sears Homelife",
       "role": "Statistician"
@@ -149,6 +149,25 @@
     "weight": 67.1,
     "deployedAt": 1631592776,
     "status": "replaced",
-    "refinableLink": "#"
+    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/410"
+  },
+  {
+    "uniqueId": "wwcho0ju",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Spencer",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Fwwcho0ju.png?alt=media",
+    "employment": {
+      "organization": "Franklin Simon",
+      "role": "Gerontology social worker"
+    },
+    "stasis": 0.35,
+    "gender": "male",
+    "bloodType": "A+",
+    "height": 182,
+    "weight": 70.4,
+    "deployedAt": 1632144269,
+    "status": "replaced",
+    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/490"
   }
 ]
