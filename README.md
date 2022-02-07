@@ -1,13 +1,12 @@
 # Linktree
 
 ## Proxima
-1. HeptaHeads
-3. Ethereal Orbits  
+1. [HeptaHeads](https://opensea.io/collection/heptaheads)
+2. [Ethereal Orbits](https://opensea.io/collection/etherealorbits)  
 
-- [Marketplace](https://app.refinable.com/profile/0x5d2213e83bc06496aa33B7F17B86754D832F613f?tab=for-sale)
 - [Website](https://proxima.heptadecane.xyz)
 
-`Author: 0x5d2213e83bc06496aa33B7F17B86754D832F613f`
+`Author: 0x40c35FFe879399b465001db374DAB2971E177501`
 
 ## Canvas of Consciousness
 - [Marketplace](https://opensea.io/collection/canvasofconsciousness)
