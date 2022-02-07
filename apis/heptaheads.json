@@ -1,0 +1,47 @@
+[
+  {
+    "uniqueId": "v7nhnbyb",
+    "deployedAt": 1643729779,
+    "assignedName": "Leonard",
+    "stasis": 0.43,
+    "gender": "male",
+    "bloodType": "B+",
+    "ethnicity": "white",
+    "age_group": "child",
+    "eye_color": "brown",
+    "hair_color": "brown",
+    "hair_length": "short",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2Fpj66d9p3.png?alt=media",
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088361258104389633"
+  },
+  {
+    "uniqueId": "pj66d9p3",
+    "deployedAt": 1643814974,
+    "assignedName": "Amanda",
+    "stasis": 0.35,
+    "gender": "female",
+    "bloodType": "A+",
+    "ethnicity": "white",
+    "age_group": "young-adult",
+    "eye_color": "brown",
+    "hair_color": "brown",
+    "hair_length": "long",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2Fpj66d9p3.png?alt=media",
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088362357616017409"
+  },
+    {
+    "uniqueId": "upcoming",
+    "deployedAt": 1631592776,
+    "assignedName": "Barbra",
+    "stasis": 0.48,
+    "gender": "female",
+    "bloodType": "O-",
+    "ethnicity": "white",
+    "age_group": "young-adult",
+    "eye_color": "brown",
+    "hair_color": "brown",
+    "hair_length": "long",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "openseaLink": "#"
+  }
+]
