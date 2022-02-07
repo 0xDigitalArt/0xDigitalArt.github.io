@@ -57,7 +57,7 @@
     "hair_color": "brown",
     "hair_length": "short",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2Fc0cgua90.png?alt=media",
-    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088366755662528513"
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088367855174156289"
   },
   {
     "uniqueId": "4g1h7bul",
@@ -72,7 +72,7 @@
     "hair_color": "brown",
     "hair_length": "short",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2F4g1h7bul.png?alt=media",
-    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088366755662528513"
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088368954685784065"
   },
   {
     "uniqueId": "28hznsqr",
@@ -87,11 +87,11 @@
     "hair_color": "brown",
     "hair_length": "long",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2F28hznsqr.png?alt=media",
-    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088366755662528513"
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088370054197411841"
   },
   {
-    "uniqueId": "upcoming",
-    "deployedAt": 1631592776,
+    "uniqueId": "7yngv0vz",
+    "deployedAt": 1644266484,
     "assignedName": "Lindsay",
     "stasis": 0.48,
     "gender": "female",
@@ -100,7 +100,22 @@
     "age_group": "young-adult",
     "eye_color": "brown",
     "hair_color": "brown",
-    "hair_length": "long",
+    "hair_length": "medium",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2F7yngv0vz.png?alt=media",
+    "openseaLink": "#"
+  },
+  {
+    "uniqueId": "upcoming",
+    "deployedAt": 1644266626,
+    "assignedName": "Carolyn",
+    "stasis": 0.70,
+    "gender": "female",
+    "bloodType": "O+",
+    "ethnicity": "white",
+    "age_group": "young-adult",
+    "eye_color": "brown",
+    "hair_color": "brown",
+    "hair_length": "medium",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
     "openseaLink": "#"
   }
