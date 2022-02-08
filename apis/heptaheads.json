@@ -105,7 +105,7 @@
     "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088371153709039617"
   },
   {
-    "uniqueId": "upcoming",
+    "uniqueId": "y7ixvz2b",
     "deployedAt": 1644266626,
     "assignedName": "Carolyn",
     "stasis": 0.70,
@@ -116,6 +116,21 @@
     "eye_color": "brown",
     "hair_color": "brown",
     "hair_length": "medium",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2Fy7ixvz2b.png?alt=media",
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088372253220667393"
+  },
+  {
+    "uniqueId": "upcoming",
+    "deployedAt": 1644305383,
+    "assignedName": "Richard",
+    "stasis": 0.67,
+    "gender": "male",
+    "bloodType": "O+",
+    "ethnicity": "white",
+    "age_group": "young-adult",
+    "eye_color": "brown",
+    "hair_color": "black",
+    "hair_length": "short",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
     "openseaLink": "#"
   }
