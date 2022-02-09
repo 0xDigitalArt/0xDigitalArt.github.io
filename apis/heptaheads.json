@@ -135,7 +135,7 @@
     "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088373352732295169"
   },
   {
-    "uniqueId": "upcoming",
+    "uniqueId": "ic3o6bis",
     "deployedAt": 1644336453,
     "assignedName": "Edna",
     "stasis": 0.58,
@@ -146,6 +146,21 @@
     "eye_color": "brown",
     "hair_color": "brown",
     "hair_length": "medium",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2Fic3o6bis.png?alt=media",
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088374452243922945"
+  },
+  {
+    "uniqueId": "upcoming",
+    "deployedAt": 1644399004,
+    "assignedName": "Cruz",
+    "stasis": 0.77,
+    "gender": "male",
+    "bloodType": "B+",
+    "ethnicity": "white",
+    "age_group": "young-adult",
+    "eye_color": "brown",
+    "hair_color": "brown",
+    "hair_length": "short",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
     "openseaLink": "#"
   }
