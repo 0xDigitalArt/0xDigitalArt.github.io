@@ -150,12 +150,27 @@
     "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088374452243922945"
   },
   {
-    "uniqueId": "upcoming",
+    "uniqueId": "mku0i9wi",
     "deployedAt": 1644399004,
     "assignedName": "Cruz",
     "stasis": 0.77,
     "gender": "male",
     "bloodType": "B+",
+    "ethnicity": "white",
+    "age_group": "young-adult",
+    "eye_color": "brown",
+    "hair_color": "brown",
+    "hair_length": "short",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/heptaheads%2Fmku0i9wi.png?alt=media",
+    "openseaLink": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/29293220014968111021596185839931763830945097708209659344386088375551755550721"
+  },
+  {
+    "uniqueId": "upcoming",
+    "deployedAt": 1644468873,
+    "assignedName": "Rob",
+    "stasis": 0.74,
+    "gender": "male",
+    "bloodType": "A+",
     "ethnicity": "white",
     "age_group": "young-adult",
     "eye_color": "brown",
